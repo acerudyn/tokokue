@@ -1,0 +1,52 @@
+@charset "utf-8";
+.FOOT {
+	text-align: center;
+
+}
+.Menudata {
+	color: #000;
+}
+.home {
+	font-weight: bold;
+}
+.profil {
+	font-weight: bold;
+}
+.barang {
+
+}
+.panduan {
+	font-weight: bold;
+}
+.konfirmasi {
+	font-weight: bold;
+}
+.Menudata td table tr td strong {
+	color: #600;
+}
+.a {
+	color: #600;
+	
+}
+.background {
+	background-image: url(../../images/12-42-59-LS71500L__89016.jpg);
+}
+.a tr .FOOT {
+	color: #000;
+}
+.cari {
+	text-align: left;
+
+}
+.cari {
+	text-align: right;
+}
+.search {
+	text-align: right;
+}
+.a tr td a .Home {
+	text-align: right;
+}
+.homeprofilkoleksipanduankomfirmasi {
+	text-align: center;
+}

@@ -1,0 +1,226 @@
+#wrap{
+	width:100%;
+	margin-right:auto;
+	margin-left:auto; 
+	border:none; 
+}
+
+body{
+	margin:0px auto 0px;
+	padding:3px;
+	font-size:16px;
+	color:#FCC;
+	width:100%;
+	background-image: url(../images/12-37-42-HAR70528_z.jpg);
+	background-repeat:no-repeat;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-color: #FCF;
+}
+#header{
+	height:200px;
+	width:1345px;
+	overflow:hidden;
+	margin:0px;
+	padding:0px;
+	background-image:url(../images/wedding-cupcakes-large.jpg);
+	background-repeat:no-repeat;
+	color: #FCF;
+	border-top-color: #FCF;
+	border-right-color: #FCF;
+	border-bottom-color: #FCF;
+	border-left-color: #FCF;
+	cursor: default;
+}
+
+.table-main {
+	clear: both;
+	text-align: left;
+	border-collapse: collapse;
+	margin: 0px 0px 0px 0px;
+	width:100%;
+	background-image:none;
+	background-repeat:no-repeat;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style:none;
+}
+.table-main td {
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 0px;
+	background-color: #FCF;
+	background-image: url(../images/12-37-42-HAR70528_z.jpg);
+	background-repeat:no-repeat;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	font-family: Perpetua;
+	color: #300;
+}
+.table-main ul{ padding:0px; margin:0px 5px; width:100%;}
+.table-main li{ padding:0px; margin:0px 0px 5px 0px;}
+.table-main li a{ padding:5px; margin:0px 0px 0px 0px; color:#300; 
+	font-size:16px; 
+	font-weight:bold; 
+	text-decoration:none;
+	display: block; 
+}
+.table-main li a:hover{color:#000000;}
+.table-common {
+	clear: both;
+	text-align: left;
+	border-collapse: collapse;
+	margin: 10px 0px 10px 0px;
+	background:#fff;	
+}
+.table-common th {
+	color: #333; font-size: 14px; 
+	font-weight: 700; 
+	margin: 2px 2px 2px 2px; 
+	padding: 5px 5px; 
+	background: url(../images/Background_td.gif) repeat-x top #fff; 
+	border-bottom: 1px solid #CCC; 
+	border-top: 2px solid #666666;
+}
+.table-common td {
+	color: #333;
+	font-size:13px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 3px 5px;
+	border-bottom:0px #CCCCCC solid;
+}
+.table-list {
+	clear: both;
+	text-align: left;
+	border-collapse: collapse;
+	margin: 0px 0px 10px 0px;
+	background:#fff;	
+}
+.table-list th {
+	color: #333; font-size: 14px; 
+	font-weight: 700; 
+	margin: 2px 2px 2px 2px; 
+	padding: 5px 5px; 
+	background: url(../images/head_white.jpg) repeat-x top #fff; 
+	border-bottom: 1px solid #CCC; 	
+	border-top: 2px solid #FF9900;
+}
+.table-list tr {}
+
+.table-list td {
+	color: #333;
+	font-size:14px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 3px 5px;
+	border-bottom:1px #CCCCCC solid;
+}
+
+.table-print {
+	clear: both;
+	text-align: left;
+	border-collapse: collapse;
+	margin: 0px 0px 10px 0px;
+	background:#fff;	
+}
+.table-print tr {}
+
+.table-print td {
+	color: #333;
+	font-size:12px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 3px 5px;
+}
+
+.table-user {
+	clear: both;
+	text-align: left;
+	border-collapse: collapse;
+	margin: 0px 0px 10px 0px;
+	background:#fff;	
+}
+
+.table-user th {
+	color: #333; 
+	font-size: 14px; 
+	font-weight: 700; 
+	margin: 2px 2px 2px 2px; 
+	padding: 5px 5px; 
+	background: url(../images/Background_td2.gif) repeat-x top #fff; 
+	border-bottom: 1px solid #CCC; 
+	border-top: 2px solid #FF9900;
+}
+
+.table-user td {
+	color: #333;
+	font-size:13px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 3px 5px;
+	border-bottom:1px #CCCCCC solid;
+}
+.table-main textarea:focus{background:#E8E8E8;}
+.table-main input:focus{background:#E8E8E8;}
+.table-main select:focus{background:#E8E8E8;}
+
+.selKecil {
+	color: #333;
+	font-size:13px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 3px 5px;
+	border-bottom:1px #CCCCCC solid;
+}
+
+input.angkaC {
+	text-align:center;
+}
+input.angkaL {
+	text-align:left;
+}
+input.angkaR {
+	text-align:right;
+}
+
+.footer{
+	height:20px;
+	width:100%;
+	overflow:hidden;
+	margin:0px;
+	padding:0px; 
+	border-top:none;
+}
+
+.mssgBox { 
+	margin-bottom:10px;
+	margin-right:5px;
+	margin-left:0px;
+	padding:0px;
+	float:left;
+	font-size:12px;
+}
+
+.imgBox { 
+	margin-bottom:0px;
+	margin-right:5px;
+	margin-left:0px;
+	padding:0px;
+	float:left;
+	font-size:12px;
+}
